@@ -17,10 +17,13 @@ npm install
 Compila y ejecuta el proyecto
 
 - Para desarrollo (el servidor se reinicia en cada cambio)
+
     ```
     npm run dev 
     ```
+
 - Para produccion (no muestra errores detallados)
+
     ```
     npm run start
     ```
