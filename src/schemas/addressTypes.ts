@@ -3,10 +3,9 @@ export const addressTypes = /* GraphQL */ `
     id: ID!
     street: String!
     zip: Zip!
-    number: Int 
+    number: Int
     country: String
     state: String
     city: String
-
   }
 `;

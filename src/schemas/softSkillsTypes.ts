@@ -3,8 +3,5 @@ export const softSkillsTypes = /* GraphQL */ `
     id: ID!
     name: String
     type: String
-
-    
-    
   }
 `;

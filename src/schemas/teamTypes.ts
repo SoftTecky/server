@@ -4,7 +4,5 @@ export const teamTypes = /* GraphQL */ `
     name: String
     organization: String
     leader: String
-    
-    
   }
 `;

@@ -6,8 +6,5 @@ export const evaluationTypes = /* GraphQL */ `
     evaluationDate: Date!
     result: String
     softSkill: String
-    
-    
-    
   }
 `;

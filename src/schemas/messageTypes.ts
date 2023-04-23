@@ -5,8 +5,5 @@ export const messageTypes = /* GraphQL */ `
     date: Date
     origin: String
     destination: String
-    
-    
-    
   }
 `;

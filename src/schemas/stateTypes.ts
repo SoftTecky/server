@@ -3,6 +3,5 @@ export const stateTypes = /* GraphQL */ `
     id: ID!
     country: String
     name: String
-    
   }
 `;
